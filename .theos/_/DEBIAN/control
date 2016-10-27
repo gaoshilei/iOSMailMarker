@@ -1,0 +1,10 @@
+Package: com.yourcompany.mailmarker
+Name: MailMarker
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: 高石磊
+Author: 高石磊
+Section: Tweaks
+Version: 0.0.1-10+debug
+Installed-Size: 124
